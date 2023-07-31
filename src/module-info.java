@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author deividi
+ *
+ */
+module ChessGame {
+}
